@@ -3,6 +3,9 @@
     "username": "Lonxs69"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": {
+      "_vercel": "vc-domain-verify=lonxs69.is-a.dev,77ba0768ff690350df0e"
+    }
   }
 }
